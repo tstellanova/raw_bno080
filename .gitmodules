@@ -1,0 +1,3 @@
+[submodule "bno080"]
+	path = bno080
+	url = https://github.com/tstellanova/bno080
